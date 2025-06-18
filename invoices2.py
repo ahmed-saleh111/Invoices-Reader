@@ -172,8 +172,9 @@ def generate(image_path):
 
 
     json_response = parse_json(response.text)
-    print(json_response)
-    print(type(json_response))  
+    return json_response
+    # print(json_response)
+    # print(type(json_response))  
 
 if __name__ == "__main__":
     
