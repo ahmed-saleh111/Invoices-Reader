@@ -2,7 +2,7 @@
 
 A FastAPI-based web service that analyzes Arabic VAT invoices using Google's Gemini AI to extract structured data from invoice images.
 
-![Sample Invoice](111.webp)
+![Sample Invoice](111.jpeg)
 
 ## Features
 
